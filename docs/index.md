@@ -1,17 +1,8 @@
-# Welcome to MkDocs
+# Вітаю на моєму портфоліо 
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Мене звати Ковальов. Це мій персональний сайт-портфоліо, створений для
+демонстрації навичок, навчальних проєктів та підходу до роботи з ІТ-завданнями.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Тут ви знайдете інформацію про мої компетенції, приклади проєктів,
+а також опис процесу, за яким я працюю над задачами — від ідеї до результату.
+![Моє фото](images/me.png)
